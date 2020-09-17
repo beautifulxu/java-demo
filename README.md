@@ -1,6 +1,5 @@
 [![构建状态](/badges/t-spring-ec2/build.svg)](/p/t-spring-ec2/ci/job)
 
-[TOC]
 
 # 体验示例项目
 
